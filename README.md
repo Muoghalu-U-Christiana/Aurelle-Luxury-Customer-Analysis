@@ -5,7 +5,7 @@ purchases and improve customer experience.**
 
 ## Project Preview
 
-![Project Preview](Dashboard.png)
+![Project Preview](Dashboard-.png)
 
 ## Project Overview
 
