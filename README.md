@@ -24,7 +24,7 @@ The project started with a structured dataset, followed by data preparation, ana
 
 ### Source Data
 
-![Source Data](Aurelle Customer Behaviour Analysis.xlsx)
+![Source Data](Aurelle-Customer-Behaviour-Analysis.xlsx)
 
 ## Dashboard Features
 
@@ -49,12 +49,10 @@ Example features:
 
 | File | Description |
 |---|---|
-| `your-dashboard.xlsx` | Completed Excel dashboard |
+| `Aurelle-Customer-Behaviour-Analysis.xlsx` | Completed Excel dashboard and dataset |
 | `Dashboard.png` | Preview of the final dashboard |
-| `data.png` | Preview of the source data |
+| `Aurelle-Luxury-Sales-work-log-&-Executive-Summary` | Preview of the steps taken and Executive Summary |
 | `README.md` | Project documentation |
-
-> Replace the example file names with the exact names used in your repository.
 
 ## How to Download and Use
 
@@ -63,9 +61,7 @@ Example features:
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](your-dashboard.xlsx)
-
-> GitHub may not open or preview Excel files in every browser. Downloading the workbook and opening it in Microsoft Excel is the safest option.
+[Download the Excel Dashboard](Aurelle-Customer-Behaviour-Analysis.xlsx)
 
 ## Tools and Skills
 
